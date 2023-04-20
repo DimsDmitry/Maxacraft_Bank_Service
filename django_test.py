@@ -1,2 +1,2 @@
 # test start django
-# hello!
+# hello
